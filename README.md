@@ -3,6 +3,21 @@ Code for the paper `Learning to Detect 3D Objects from Point Clouds in Real Time
 
 Link to [Paper](https://abhinavsagar.github.io/files/object_3d.pdf).
 
+## Abstract
+
+In this work, we address the problem of 3D object detection from point cloud data in
+real time. For autonomous vehicles to work, it is very important for the perception
+component to detect the real world objects with both high accuracy and fast
+inference. We propose a novel neural network architecture along with the training
+and optimization details for detecting 3D objects in point cloud data. We compare
+the results with different backbone architectures including the standard ones like
+VGG, ResNet, Inception with our backbone. Also we present the optimization and
+ablation studies including designing an efficient anchor. We use the Kitti 3D Bird’s
+Eye View dataset for benchmarking and validating our results. Our work surpasses
+the state of the art in this domain both in terms of average precision and speed
+running at > 30 FPS. This makes it a feasible option to be deployed in real time
+applications including self driving cars.
+
 ## Data
 
 The dataset can be downloaded from [here](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
