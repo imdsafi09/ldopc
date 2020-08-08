@@ -66,7 +66,7 @@ Split the training set into training and validation set. And rearrange the folde
 
 `python code/train.py`
 
-## Inference
+## Test
 
 `python code/test.py`
 
