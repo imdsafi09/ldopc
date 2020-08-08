@@ -51,32 +51,24 @@ Split the training set into training and validation set. And rearrange the folde
 
 ## Dependencies
 
-python 3.6+
-Pytorch 
-opencv-python
-shapely
-matplotlib
-tensorboardX
+1. python 3.6+
+2. Pytorch 
+3. opencv-python
+4. shapely
+5. matplotlib
+6. tensorboardX
 
 ## Network Architecture
 
 ![results](images/img1.png)
 
-## Backbone Network
-
-![results](images/img2.png)
-
-## Anchors
-
-![results](images/img3.png)
-
 ## Train
 
-`python code/run_training.py`
+`python code/train.py`
 
 ## Inference
 
-`python code/run_inference.py`
+`python code/test.py`
 
 ## Results
 
