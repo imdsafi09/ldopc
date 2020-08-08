@@ -3,6 +3,9 @@ Code for the paper `Learning to Detect 3D Objects from Point Clouds in Real Time
 
 Link to [Paper](https://abhinavsagar.github.io/files/object_3d.pdf).
 
+Link to [Blog](https://towardsdatascience.com/3d-object-detection-using-lidar-data-for-self-driving-cars-ee0eb0e6389e).
+
+
 ## Abstract
 
 In this work, we address the problem of 3D object detection from point cloud data in
